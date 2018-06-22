@@ -42,7 +42,7 @@ What are the desired conclusions of the narrative?
 
 1. A Universal Dividend. Every person gets a cut of the pie, just for being. The level of dividend is based on two separate factors: how much of the pie there is and how much does one need of the pie to have a basic survival. The survival aspect is what the Universal Basic Income gets at. But that terms suggests paying people for nothing. This is a bad narrative. Instead, the dividend is the idea that we are all contributing, at least to a minimal level, in the success of everyone else, in the fabric of our society. And the dividend allows each to reinvest that portion of the pie in a way they see fit, a measure of trust on the part of everyone else of its good use. Note that each person receiving the dividend is free to use in whatever way; there is no measure of a good use. 
 2. A wealth tax. A large portion of the universal dividend should come from wealth holdings. By taxing and redistributing that, we encourage a system where the accumulations will disappear. This is absolutely necessary to ensure a freely functioning system. Without this, power can accumulate and entrench itself. But if there is a general drain on wealth, say at 4% a year, then only those who can accumulate money faster than that will be able to hold on to the wealth.
-3. The universal dividend goes to everyone, including old people and children as well as adults. This should help the government get out of the business of schooling, insuring, and paying different people different sums. 
+3. The universal dividend goes to everyone, including old people and children as well as adults. This should help the government get out of the business of schooling, insuring, and paying different people different sums. This helps promote the freedom of individuals, reduces government costs, promotes community. But it is all based on the universal dividend. 
 
 
 ## Maslow's Hierarchy
@@ -58,4 +58,8 @@ An explanation of how to view the three different branches (society, economy, go
 
 This is a bibliography of books I have read that contribute to this narrative. 
 
-* [Suicide of the West](https://github.com/jostylr/a-new-narrative/blob/master/reviews/suicide-of-the-west.md) 
+* [Bullshit Jobs](https://github.com/jostylr/a-new-narrative/blob/master/reviews/bullshit-jobs.md) An examination of pointless jobs with plenty of stories, the whys, hows, and whats of it all. 
+* [Debt](https://github.com/jostylr/a-new-narrative/blob/master/reviews/debt.md) A historical overview of debt and its influences throughout history. 
+* [The Democracy Project](https://github.com/jostylr/a-new-narrative/blob/master/reviews/the-democracy-project.md) A story of the Occupy movement. Only tangentially related to this, but it did have some interesting bits related to another road that could be taken.
+* [The View from Flyover Country](https://github.com/jostylr/a-new-narrative/blob/master/reviews/the-view-from-flyover-country.md) Short essays about what the midwest looks like. Some data on the ground in a region for which this narrative could be most helpful, but perhaps very hard to sell to. 
+* [Suicide of the West](https://github.com/jostylr/a-new-narrative/blob/master/reviews/suicide-of-the-west.md)  A look at the conservative narrative of freedom and economics. It is useful because this a book attempting to get control of the conservative movement from the populists, allowing for ideological view that is not strictly in oppposition to liberal ideology. 
