@@ -103,7 +103,113 @@ Claim:
 
 >As we've seen, the American Founders believed that the enemy of liberty was arbitrary power. p.165
 
-This rejected thought of 
+This rejected thought of the best governing in a dispassionate way. Adams elaborated as worrying about an aristocracy. Nothing wrong with natural elites, but with elitism. 
+
+Small organizations can govern by consensus, but bureaucracy kicks in with large organizations. Secret, special knowledge develops, special connections, power. A few do all the work and those few often end up with a lot of decision power. 
+
+Populists, ambitious elites, hereditary bureaucratcs ad threats to democracies. 
+
+Venice as voting by lottery to be in charge, upsetting the various flows of power. Then such changes voted out by those empowered. 
+
+## Progressive Era
+
+Birth of modern American State. In the 1910s, Wilson and all that. Cites Wilson as wanting to wall off access to government using adminstrative breaks. Social scientists running the state and all that. Post world war i saw a cry for planning in peace just as they did in war. 
+
+## Administrative State
+
+Shadow government, a whole slew of agencies establishing rules in-house, outside of the purview of Congress and the people. Also, government not subject to the law in the same way as everybody else. 
+
+Makes the argument of massive bureacracy (175,000 pages of administrative law created by unelected and unaccountable people) Talks about various scandals in which whistleblowers get punished, but not the ones actually doing bad stuff. 
+
+Idea of granting subsidies, regulatory protection, etc., to people, industries by government. Scratch back kind of situation. 
+
+Barriers put down by government are more easily navigated by rich people. 
+
+## Tribalism Today
+
+Argues about the principle of equality being expanded slowly as it was a good idea that could be argued should be applied to all. 
+
+Goes into identity politics. Says the right things about righting the baises of the current system, but does not actually highlight them. Instead, starts to attack those who wish to overcompensate. 
+
+Goes on about campuses...
+
+Gives warnings about social justice, "new politics of meaning",  vast scale of changes, makes analogy to Soviet Union vast attempts to change culture and its disastrous results. Makes analogy with destruction of Iraq institutions leading to ISIS and warns the same domestically (attempts to force Christians to accept gays). Basically, seems to want to argue that people take a lot of time to adjust and forcing them abruptly to change creates a nasty backlash (Trump voters). 
+
+Capitalism itself destroys old institutions and habits, creating backlashes. 
+
+Cites rising protectionism as a symptom of ingratitude  (maybe because they have all been treated without gratitude themselves). 
+
+## Pop Culture Politics
+
+Romantic ideals vs cold capitalist notions.  
+
+Various entertainment stories and so forth that support the romantic notions of our natural state, such as Fight Club.
+
+Notices how morals in art are vastly different than morals in our everday life. 
+
+## Family's Losing War Against Barabarism
+
+Pair bonds vs chimps, gorillas which are more spread out, but they have mechanisms for private pairing. 
+
+Despairs of the dissolution of marriage, of welfare benefits that support single mothers and how it undercuts marriage. Talks about elderly with children spending less on nursing homes for obvious reason. 
+
+Bemoans soul mate notion. Mentions cost of parenthoods.
+
+## Trumpian Era
+
+>Change the conversation, you change the world. 
+
+Bemoans praise of China and its authoritarian ways (my question is whether such authoritarian ways leads to new innovations, i.e., can an innovator innovate without getting in the cross-hairs of those who fear the loss of their power). 
+
+Goes on about populism and nationalism. It is the right's romanticism. Tribal, etc. Passion leads to unity. 
+
+## Things Fall Apart
+
+Big talk of civil society (institutions such as 4-h, bowling, schools, ...) Artificial reefs.
+
+Danger of talking about country as big family. Danger of saying the poor are entitled to support and money. Importance of earned success. Saying charity is less if government is supporting the poor. 
+
+"learned helplessness"  More like codified helplessness in the sense that getting a job or getting married is penalized by the code. 
+
+Also charity coming from a religion is a way of indoctrinating the individual into the religion. Is that fair? 
+
+Rails against national government and individual being the only two items of importance. 
+
+Mentions "Life of Julia" which shows government taking care of this person their whole life with no family (save a son that disappears at age 18), no friends, no community, ...
+
+Notion of state as mother, father.
+
+Notes the dramatic wealth inequality that began around 2000. 
+
+Agrees capitalism took out the coal workers. 
+
+Immigration discussion, supports immigrants, but noted that it was not helpful to call anti-immigration people biased. 
+Tribal vs us on social media, in the politics, etc. 
+
+Praises Tea Party as a polite populist movement. It failed so the radical Trump faction grew. 
+
+Agrees with Hillary Clinton on needing a third part to counteract market and government. Disagrees about more centralization. 
+
+## Conclusion: Decline Is a Choice
+
+"Earned success is the secret to meaningful happiness"
+
+Only 26% of Americans can name all three branches of government?! Annenberg 2017 poll. Was 38% in 2011. 
+
+Talks about students having superb resumes and no knowledge. 
+
+Orwell feared books would be banned, Huxley feared we would lose interest in books from irrelevancies. 
+
+Populism is about wanting feelings expressed and ratified. 
+
+Worries about authoritarianism, about how civility is not a thing in Trump. 
+
+Need sufficient number of people to believe that everyone is created equal, need to keep the belief alive, need gratitude. 
+
+Me: So let's express gratitude to ourselves? 
+
+>The only thing that gives the Consitution real lasting power is our commitment to it, and there's nothing preventing us from walking away from it other than our refusal to do so.
+
 
 
 
