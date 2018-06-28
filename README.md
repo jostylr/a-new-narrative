@@ -44,6 +44,8 @@ What are the desired conclusions of the narrative?
 2. A wealth tax. A large portion of the universal dividend should come from wealth holdings. By taxing and redistributing that, we encourage a system where the accumulations will disappear. This is absolutely necessary to ensure a freely functioning system. Without this, power can accumulate and entrench itself. But if there is a general drain on wealth, say at 4% a year, then only those who can accumulate money faster than that will be able to hold on to the wealth.
 3. The universal dividend goes to everyone, including old people and children as well as adults. This should help the government get out of the business of schooling, insuring, and paying different people different sums. This helps promote the freedom of individuals, reduces government costs, promotes community. But it is all based on the universal dividend. 
 
+[Universal Dividend](udivu.live) A small price to pay for all of us to live lives of meaning.
+
 
 ## Maslow's Hierarchy
 
